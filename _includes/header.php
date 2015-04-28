@@ -1,8 +1,9 @@
 <header>
             <figure>
-                <img id='img-head' alt='BloodBorne Header' src='images/thath_logo.png'>
+                <img id='img-head' alt='Tor Hathaway' src='images/Tor_Peaky_Logo_2.png'>
+                
                 <figcaption>
-                    <p>thath logo by Dan Rosen</p>
+                    <p></p>
                 </figcaption>
             </figure>
 </header>
