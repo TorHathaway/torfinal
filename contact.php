@@ -21,7 +21,7 @@
             <div id="content">
                 
                 <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
-                
+                <?php include 'form.php'; ?> <!-- php call to form -->
                 
                 <p> This is where my contact info form will go</p>
                 

@@ -7,16 +7,6 @@
 		<meta name="author" content="Tor Hathaway"/>
                 <meta charset="UTF-8"/>
                 <link type="text/css" rel="stylesheet" href="css_stylesheet/style.css"/>
-                <script src="css_stylesheet/instafeed.min.js" type="text/javascript"></script>
-                <script type="text/javascript">
-                    var feed = new Instafeed ({
-                        get: "tagged",
-                        tagName: "tordoeshandstands",
-                        resolution: "standard_resolution",
-                        clientId: "e91e2fedac054e7a8f0710a7cc6a2c5f",
-                    });
-                    feed.run();
-                </script>
 	</head>
 <body>
 	<div id="wrapper">
@@ -33,11 +23,13 @@
                 <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
                 
                 
-                <div id="instafeed"></div><!--instafeed--!>
+                <p> Check out some of my music </p>
+                <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/606166&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+                
             </div> <!-- End of Content Div -->
             
             
-            <div class="clear"></div>
+            
             <div id="footer">
                 <?php include '_includes/footer.php'; ?> <!-- PHP to call footer -->
                 

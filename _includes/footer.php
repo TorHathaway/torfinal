@@ -1,3 +1,3 @@
 <footer>
-    <p>©BloodBorne From Software</p>
+    <code>© Tor Hathaway</code>
 </footer>

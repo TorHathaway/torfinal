@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Tor Hathaway</title>
-		<meta name="description" content=" Portfolio for Tor Hathaway"/>
+		<meta name="description" content=" Youtube account for Tor Hathaway"/>
 		<meta name="keywords" content="Tor Hathaway snowboard skateboard trampoline DJ"/>
 		<meta name="author" content="Tor Hathaway"/>
                 <meta charset="UTF-8"/>
@@ -23,8 +23,10 @@
                 <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
                 
                 
-                <p> Here there will be links to my soundcloud / soundcloud API</p>
-                
+                <p> Check out some of my tramping Videos!</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-x6KKSO0aYAL4zYUMvZwar-SCBIyNark" frameborder="0" allowfullscreen></iframe>
+
+
             </div> <!-- End of Content Div -->
             
             
