@@ -9,12 +9,12 @@ include "top.php";
 //
 // SECTION: 1a.
 // variables for the classroom purposes to help find errors.
-$debug = false;
+$debug = true;
 if (isset($_GET["debug"])) { // ONLY do this in a classroom environment
     $debug = true;
 }
 if ($debug)
-    print "<p>DEBUG MODE IS ON</p>";
+    print "<p>Thank You for Filling out the Form</p>";
 //%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%
 //
 // SECTION: 1b Security
@@ -243,12 +243,7 @@ if (isset($_POST["btnSubmit"])) {
 
             <fieldset class="wrapper">
                 <legend>Register Today</legend>
-                <p>You information will greatly help us with our research.</p>
-                <figure>
-                    <img src = "images/handstand.jpg" alt= "Handstand Picture" width= "300">
-                    <figcaption> Santorini Greece. 
-                    </figcaption>
-                </figure>
+                
 
                 <fieldset class="wrapperTwo">
                     <legend>Please complete the following form</legend>

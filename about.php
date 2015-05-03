@@ -24,7 +24,8 @@
                 
                 
                 <p id="pabout"> Welcome to my website.<br><br>
-                    <p id="pabout"> I created this website with the purpose of holding all the content I generate doing the many things I love.
+                    <p id="pabout"> click the links above to discover more about my hobbies which include, Snowboarding, Skateboarding, Tramping, and Djing
+                        
                 
                 
             </div> <!-- End of Content Div -->

@@ -23,7 +23,15 @@
                 
                 
                 
-                <p> here is going to be my Gallery page of photos</p>
+                
+                <img src="images/550551_560079037354780_139263020_n.jpg" alt=""/>
+                <img src="images/10714396_677633545677945_3472597815439630212_o (2).jpg" alt=""/>
+                <img src="images/1398744_10152007990373007_1084898482_o.jpg" alt=""/>
+                <img src="images/gmgc05WM.jpg" alt=""/>
+                <img src="images/gmgc12WM.jpg" alt=""/>
+                <img src="images/gmgc14WM.jpg" alt=""/>
+                <img src="images/handstand.jpg" alt=""/>
+                
                 
             </div> <!-- End of Content Div -->
             

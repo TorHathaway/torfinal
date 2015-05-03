@@ -23,7 +23,7 @@
                 
                 <!-- php call to form -->
                 
-                <p> This is where my contact info form will go</p>
+                
                 
             </div> <!-- End of Content Div -->
             <?php include 'form.php'; ?>
