@@ -21,6 +21,16 @@ body{
 
 }
 
+.container{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+}
+
+.gallImg{
+    max-width: 200px;
+}
+
 #introcontent {
     background: black;
     
