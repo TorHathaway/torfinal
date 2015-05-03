@@ -17,10 +17,10 @@
             </div> <!-- End of Header Div -->
             
             
-            
+            <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
             <div id="content">
                 
-                <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
+                
                 
                 
                 <p> here is going to be my Gallery page of photos</p>

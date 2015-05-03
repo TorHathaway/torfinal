@@ -1,3 +1,3 @@
 <footer>
-    <code>© Tor Hathaway</code>
+    <code>website design by Tor Hathaway</code>
 </footer>

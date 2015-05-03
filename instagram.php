@@ -27,10 +27,10 @@
             </div> <!-- End of Header Div -->
             
             
-            
+            <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
             <div id="content">
                 
-                <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
+                
                 
                 
                 <div id="instafeed"></div><!--instafeed--!>

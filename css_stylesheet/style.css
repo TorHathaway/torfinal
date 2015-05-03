@@ -8,7 +8,7 @@ body{
 
 }
 #header {
-
+ width: 100%;
 }
 
 #nav {
@@ -16,20 +16,46 @@ body{
 	
 }
 #content {
+    text-align: center;
 
 
 }
+
+#introcontent {
+    background: black;
+    
+}
+
+#introwrapper {
+    background-color:black;
+}
+
+#introimg {
+    
+    max-width:100%;
+    height:auto;
+    
+}
+
+#pabout{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: black;
+
+}
 #footer {
+	background-color: black;
+	color: white;
 	width:100%;
 	height:50px;
     text-align: center;
     line-height: 50px;
-	padding:10px;
+   	
 	padding-bottom: 10px;
 	bottom:0;
 	left:0;
-/*	background:lightblue;
-*/}
+	margin-top:10px;
+}
 
 #img-head {
 
@@ -88,4 +114,8 @@ li {
 
 ol {
     text-align: center;
+}
+
+#video {
+    margin: 100px auto;
 }

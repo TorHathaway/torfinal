@@ -16,14 +16,16 @@
                 
             </div> <!-- End of Header Div -->
             
-            
+            <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
             
             <div id="content">
                 
-                <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
                 
                 
-                <p> Hey there, my name is Tor Hathaway. I love to Snowboard, skateboard, trampoline, and DJ. Thanks for taking a look at my page</p>
+                
+                <p id="pabout"> Welcome to my website.<br><br>
+                    <p id="pabout"> I created this website with the purpose of holding all the content I generate doing the many things I love.
+                
                 
             </div> <!-- End of Content Div -->
             

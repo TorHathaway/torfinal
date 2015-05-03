@@ -9,7 +9,9 @@
                 <link type="text/css" rel="stylesheet" href="css_stylesheet/style.css"/>
 	</head>
 <body>
-	<div id="wrapper">
+        <script>setTimeout(function(){window.location.href='about.php'},3000);</script>
+        
+	<div id="introwrapper">
             <div id="header">
                 
                <?php include '_includes/header.php'; ?> <!-- PHP to call header --> 
@@ -18,12 +20,12 @@
             
             
             
-            <div id="content">
+            <div id="introcontent">
+                <img id= "introimg" src="images/dj_background.jpg" alt="tor dj background"/>
                 
-                <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
                 
                 
-                <p> Hey there, my name is Tor Hathaway. I love to Snowboard, skateboard, trampoline, and DJ. Thanks for taking a look at my page</p>
+                
                 
             </div> <!-- End of Content Div -->
             

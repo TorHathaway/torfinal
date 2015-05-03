@@ -17,17 +17,17 @@
             </div> <!-- End of Header Div -->
             
             
-            
+           <?php include '_includes/nav.php'; ?> <!-- PHP to call nav --> 
             <div id="content">
                 
-                <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
-                <?php include 'form.php'; ?> <!-- php call to form -->
+                
+                <!-- php call to form -->
                 
                 <p> This is where my contact info form will go</p>
                 
             </div> <!-- End of Content Div -->
-            
-            
+            <?php include 'form.php'; ?>
+           
             
             <div id="footer">
                 <?php include '_includes/footer.php'; ?> <!-- PHP to call footer -->

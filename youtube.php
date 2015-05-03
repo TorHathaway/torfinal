@@ -17,14 +17,14 @@
             </div> <!-- End of Header Div -->
             
             
-            
+            <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
             <div id="content">
                 
-                <?php include '_includes/nav.php'; ?> <!-- PHP to call nav -->
                 
                 
-                <p> Check out some of my tramping Videos!</p>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-x6KKSO0aYAL4zYUMvZwar-SCBIyNark" frameborder="0" allowfullscreen></iframe>
+                
+                <p> Press the menu button in the top left hand of the video player to check out all my tramping videos!</p>
+                <iframe id="video" width="880" height="440" src="https://www.youtube.com/embed/videoseries?list=PL-x6KKSO0aYAL4zYUMvZwar-SCBIyNark" frameborder="0" allowfullscreen></iframe>
 
 
             </div> <!-- End of Content Div -->
